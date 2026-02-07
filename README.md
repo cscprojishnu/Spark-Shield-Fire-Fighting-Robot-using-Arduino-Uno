@@ -5,7 +5,7 @@
 **Authors:**  
 - 🧑‍💻 Jishnu Teja Dandamudi  
 - 🧑‍💻 Rama Muni Reddy Yanamala  
-- 🧑‍🏫 Anand Kumar V.  
+- 🧑‍🏫 Anand Kumar V
 **Institution:** Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, India  
 
 
